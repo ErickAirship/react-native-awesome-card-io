@@ -1,6 +1,6 @@
 {
   "name": "react-native-awesome-card-io",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "A complete and cross-platform React Native component for card.io",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "ios"
   ],
   "author": "Yann Pringault <yann.pringault@gmail.com>",
-  "homepage": "https://github.com/Kerumen/react-native-awesome-card-io",
+  "homepage": "https://github.com/ErickAirship/card.io-iOS-source",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.6.2"
